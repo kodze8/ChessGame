@@ -6,7 +6,7 @@ This is a simple chess game implemented in Python. The game allows two players t
 
 1. **Run the Game**:
    - Run the `chess.py` file using Python.
-   - The format for a valid move input is `<current_position> <destination_position>`, where `current_position` and `destination_position` are in the format `<letter><number>`. For example, `A2 A4` means moving the piece from square A2 to square A4.
+   - The format for a valid move input is `current_position destination_position`, where `current_position` and `destination_position` are in the format `<letter><number>`. For example, `A2 A4` means moving the piece from square A2 to square A4.
    - The game alternates between White and Black players. Follow the on-screen prompts.
 
 2. **Exiting the Game**:
